@@ -7,7 +7,7 @@
 //Hardware:	2 potenciometros, leds y displays
 
 //Creado:	20 abril, 2021
-//Ultima modificacion:  , 2021
+//Ultima modificacion:  25 abril, 2021
 // ----------------- Laboratorio No.8 ----------------------------------------
 
 #pragma config FOSC=INTRC_NOCLKOUT //Oscilador interno sin salidas
